@@ -6,3 +6,4 @@ DSA
 DSA lab
 new subject github
 new subject python
+new subject maths
